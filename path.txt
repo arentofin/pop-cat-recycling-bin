@@ -1,0 +1,3 @@
+Registry Editor Path:
+HKEY_CURRENT_USER/Software/Microsoft/Windows/CurrentVersion/Explorer/CLSID/{645FF040-5081-101B-9F08-00AA002F954E}/Default Icon
+If you cant find the path anyway then just copy the full path simply and paste in the registry box. sample provided with the icon files.
